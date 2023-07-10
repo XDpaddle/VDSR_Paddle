@@ -1,0 +1,7 @@
+opencv-python
+numpy
+paddle
+tqdm
+setuptools
+torchvision
+natsort
