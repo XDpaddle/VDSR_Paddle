@@ -38,7 +38,7 @@ In the config.py
 In the validate.py
 - line 13: `model_path` change to the weight address you use 
 
-run validate.py
+python validate.py
 
 ## Result
 
